@@ -6,14 +6,14 @@ TFTP is a simple client-server file transfer project developed in C using UDP so
 
 ## ✨ Features
 
-* 📤 Supports file upload
-* 📥 Supports file download
-* 🌐 Client-server communication using UDP
-* 📖 Supports Read Request (RRQ)
-* 📝 Supports Write Request (WRQ)
-* 📦 Handles DATA and ACK packets
-* ⚠️ Basic error handling
-* 🔄 Timeout and retransmission support
+* Supports file upload
+* Supports file download
+* Client-server communication using UDP
+* Supports Read Request (RRQ)
+* Supports Write Request (WRQ)
+* Handles DATA and ACK packets
+* Basic error handling
+* Timeout and retransmission support
 
 ## 🛠️ Technologies Used
 
